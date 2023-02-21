@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "ecmel.vscode-html-css",
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "rust-lang.rust-analyzer",
+        "vue.volar",
+        "dsznajder.es7-react-js-snippets",
+        "dbaeumer.vscode-eslint"
+    ]
+}
