@@ -1,6 +1,6 @@
 # Design-mindfulness.github.io
 
-A Static Splash Page hosted by GitHub Pages.
+A Static Splash Page hosted on GitHub Pages.
 
 <!-- <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Passing"> <img src="https://img.shields.io/badge/test-passing-brightgreen" alt="Test Passing"> <img src="https://img.shields.io/badge/node-14.15.5-brightgreen" alt="HTML, CSS & JavaScript"> <img src="https://img.shields.io/badge/webpack-4.46.0-blue" alt="Webpack V4.46.0"> -->
 
@@ -19,15 +19,11 @@ The goal of this project is to demonstrate hireable skills with leading technolo
 
 ### 2 - SIDEQUEST
 
-I have been accepted to study an Acredited program in [Data Science and Machine Learning](https://www.mygreatlearning.com/mit-data-science-and-machine-learning-program?user_cookie_uuid=0d485c68-b571-46b1-a3d3-b865ab3ab7af) via the [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/).
+I have been accepted to study an Acredited program in [Data Science and Machine Learning](https://www.mygreatlearning.com/mit-data-science-and-machine-learning-program?user_cookie_uuid=0d485c68-b571-46b1-a3d3-b865ab3ab7af) via the [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/). This credential will enable me to access a career path in the Tech Industry:
 
 [![Watch the video](https://d1vwxdpzbgdqj.cloudfront.net/assets/mit-dsml/certificate-17c52a003472c4ada8ad2db72f4d162ee3146b1e83a14d68716785fb500f03bc.png)](https://youtu.be/vt5fpE0bzSY)
 
-I plan to use this project as an oportunity establish the necessary mechanisms that will help me generate the required savings needed to afford the Enrollment and Ancillary fees.
-
-This will enable me to access/advance my career path in the Tech Industry.
-
-[![Watch the video][def]](https://youtu.be/vt5fpE0bzSY)
+**I plan to use this project as an oportunity establish the necessary mechanisms that will help me generate the required savings needed to afford the Enrollment and Ancillary fees.**
 
 ## Project Management
 
@@ -100,16 +96,14 @@ Webflow (Staged MVP Prototype):
 
 ### 6 - Discover More
 
-*ID* |`          TECH           `|`          LINK           `|`          LIFE-CYCLE           `|`          STATUS           `
-:--: | :-----------------------: | :-----------------------: | :---: | :---:
-DMA | Webflow (Staging) | [design-mindfulness.webflow.io](https://design-mindfulness.weblow.io) | `low-fidelity MVP` | Pending
-DMB | GitHub (Prototype) | [design-mindfulness.github.io](https://design-mindfulness.github.io) | `low-fidelity MVP` | Backlog
-DMC | GitHub (Splash Page) | [www.Design-mindfulness.dev](https://design-mindfulness.dev) | `{medium-fidelity MVP}` | Blocked
-DMD | Vercel (Next.js) | [design-mindfulness.app](https://#coming-soon?eta=23Q3) | `{medium-fidelity Prototype}` | Blocked
-DME | Google (Electron.js) | [design-mindfulness.com](https://#coming-soon?eta=23Q2) | `{high-fidelity Product}` | Blocked
+TECH | LINK | LIFE-CYCLE | STATUS
+:--: | :--: | :--------: | :-----:
+Webflow (Staging) | [design-mindfulness.webflow.io](https://design-mindfulness.weblow.io) | `low-fidelity MVP` | Pending
+GitHub (Prototype) | [design-mindfulness.github.io](https://design-mindfulness.github.io) | `low-fidelity MVP` | Backlog
+GitHub (Splash Page) | [www.Design-mindfulness.dev](https://design-mindfulness.dev) | `{medium-fidelity MVP}` | Blocked
+Vercel (Next.js) | [design-mindfulness.app](https://#coming-soon?eta=23Q3) | `{medium-fidelity Prototype}` | Blocked
+Google (Electron.js) | [design-mindfulness.com](https://#coming-soon?eta=23Q2) | `{high-fidelity Product}` | Blocked
 
 ## Project License
 
 `Design-mindfulness.github.io` is personal work released under the [GNU General Public License, version 3 (GNU GPL v3)](https://www.gnu.org/licenses/gpl-3.0.html).
-
-[def]: https://d1vwxdpzbgdqj.cloudfront.net/assets/mit-dsml/certificate-17c52a003472c4ada8ad2db72f4d162ee3146b1e83a14d68716785fb500f03bc.png
