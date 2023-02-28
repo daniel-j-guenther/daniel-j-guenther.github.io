@@ -23,7 +23,7 @@ I have been accepted to study an Acredited program in [Data Science and Machine 
 
 [![Watch the video](https://d1vwxdpzbgdqj.cloudfront.net/assets/mit-dsml/certificate-17c52a003472c4ada8ad2db72f4d162ee3146b1e83a14d68716785fb500f03bc.png)](https://youtu.be/vt5fpE0bzSY)
 
-**I plan to use this project as an oportunity establish the necessary mechanisms that will help me generate the required savings needed to afford the Enrollment and Ancillary fees.**
+*I see this project as an oportunity to establish much needed funding mechanisms to afford the above Enrollment and Ancillary fees.*
 
 ## [ Project Management ]
 
@@ -55,26 +55,11 @@ I have been accepted to study an Acredited program in [Data Science and Machine 
 * [ ] Test and commit necessary code to the GitHub repo.
 * [ ] (Walk away safe?) Deploy Final Project.
 
-### 4: REFERENCE
+## [ Project Demo ]
 
-#### 4.1 - Design / Developer Tools
+### 4: SHOWCASE
 
-- Build static files with [Webflow Designer](https://webflow.com/designer).
-- Host static files with [GitHub Pages](https://docs.github.com/en/pages).
-
-#### 4.2 - Theory / Best Practices
-
-- Digital Bootcamp: [edX: Harvard CS50](https://).
-- Work Experience: 7 Years as Freelance Web Designer (🎢🎡🔥🧯🧶🎨✨).
-- Study Program: [Udacity: WRITING README'S](https://).
-- Study Program: [Udacity: LINKEDIN PROFILE](https://).
-- Study Program: [Udacity: Intro to JavaScript](https://).
-- Study Program: [Udacity: GITHUB VERSION CONTROL](https://).
-- Digital Bootcamp: [Udacity Nanodegree: Front End Web Developer](https://).
-
-## 5: SHOWCASE
-
-### 5.1 - View Project
+### 4.1 - View Project
 
 - Live on the World Wide Web:
 [www.D-m.live](https://www.D-m.live) (GitHub Pages + Custom Domain = Personal Linktree✨).
@@ -85,7 +70,7 @@ I have been accepted to study an Acredited program in [Data Science and Machine 
 - View the latest prototype on Webflow:
 [design-mindfulness.webflow.io](https://design-mindfulness.weblow.io)
 
-### 5.2 - Discover More
+### 4.2 - Discover More
 
 BASE | TECH | STATUS | LINK | LIFE-CYCLE
 :--: | :--: | :----: | :--: | :--------:
@@ -110,6 +95,23 @@ def |![img](assets/some-image-n3.png){width=200px}|![img](assets/some-image-n4.p
 
 [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc) -->
 
-## Project License
+### 5: REFERENCE
+
+#### 5.1 - Design / Developer Tools
+
+- Host static files with [GitHub Pages](https://docs.github.com/en/pages).
+- Build static files with [Webflow Designer](https://webflow.com/designer).
+
+#### 5.2 - Theory / Best Practices
+
+- Digital Bootcamp: [edX: Harvard CS50](https://).
+- Study Program: [Udacity: WRITING README'S](https://).
+- Study Program: [Udacity: LINKEDIN PROFILE](https://).
+- Study Program: [Udacity: Intro to JavaScript](https://).
+- Study Program: [Udacity: GITHUB VERSION CONTROL](https://).
+- Digital Bootcamp: [Udacity Nanodegree: Front End Web Developer](https://).
+- Work Experience: [7 Years in Web Development](https://Founddesigns.de) 🎢🎡+🔥🧯=🧶🎨✨.
+
+## [ Project License ]
 
 `design-mindfulness.github.io` is personal work released under the [GNU General Public License, version 3 (GNU GPL v3)](https://www.gnu.org/licenses/gpl-3.0.html).
