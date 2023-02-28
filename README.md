@@ -18,11 +18,9 @@ The goal of this project is to demonstrate hireable skills with leading technolo
 
 ### 1.2 Side Quest
 
-I have been accepted to study an Acredited program in [Data Science and Machine Learning](https://www.mygreatlearning.com/mit-data-science-and-machine-learning-program?user_cookie_uuid=0d485c68-b571-46b1-a3d3-b865ab3ab7af) via the [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/). This credential will enable me to access a career path in the Tech Industry:
+I have been accepted to study an Acredited program in [Data Science and Machine Learning](https://www.mygreatlearning.com/mit-data-science-and-machine-learning-program?user_cookie_uuid=0d485c68-b571-46b1-a3d3-b865ab3ab7af) via the [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/). this project as an oportunity to establish much needed funding mechanisms to afford the above Enrollment and Ancillary fees.The credential is valuiable to me as it will enable me to transition meaningfully to a career path in the Tech Industry.
 
-[![Watch the video](https://d1vwxdpzbgdqj.cloudfront.net/assets/mit-dsml/certificate-17c52a003472c4ada8ad2db72f4d162ee3146b1e83a14d68716785fb500f03bc.png)](https://youtu.be/vt5fpE0bzSY)
-
-*I see this project as an oportunity to establish much needed funding mechanisms to afford the above Enrollment and Ancillary fees.*
+![Watch the video](https://d1vwxdpzbgdqj.cloudfront.net/assets/mit-dsml/certificate-17c52a003472c4ada8ad2db72f4d162ee3146b1e83a14d68716785fb500f03bc.png)](https://youtu.be/vt5fpE0bzSY)
 
 ## 2. Project Backlog
 
