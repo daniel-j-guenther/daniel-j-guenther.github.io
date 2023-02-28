@@ -1,4 +1,4 @@
-# Design-mindfulness.github.io
+# design-mindfulness.github.io
 
 A Static Splash Page hosted on GitHub Pages.
 
@@ -29,27 +29,27 @@ I have been accepted to study an Acredited program in [Data Science and Machine 
 ### 2.1 - Themes & Milestones (Product / Interaction Design)
 
 * [x] Ideation ( Inspired by [Linktree](https://linktr.ee/) )
-* [ ] Research ( Skipped on first round: Idiation and Self-reflection )
+* [x] Research ( From Self-reflection )
 * [x] Strategy
-* [X] Design
-* [X] Build
+* [x] Design
+* [x] Build
 * [ ] Test
 * [ ] Measure
 * [ ] Iterate? (Self-reflection: complete .com and sign a contract, its time)
 
 ### 2.2 - Tools & Environment (Backend / Sys-Admin.)
 
-* [X] Create and setup a GitHub Repository.
-* [X] Configure Local Environment and Build Tools.
-* [X] Purchase Domain and point DNS Records.
-* [X] Prepare Analytics and Tag Manager Scripts.
-* [X] Configure Build Tools.
+* [x] Create and setup a GitHub Repository.
+* [x] Configure Local Environment and Build Tools.
+* [x] Purchase Domain and point DNS Records.
+* [x] Prepare Analytics and Tag Manager Scripts.
+* [x] Configure Build Tools.
 
 ### 2.3 - Frontend Development (Web Design / DevOps)
 
-* [X] Build out static files (HTML, CSS & JavaScript).
-* [X] Export static webflow files to Local Environment.
-* [X] Test and commit necessary code to the GitHub repo.
+* [x] Build out static files (HTML, CSS & JavaScript).
+* [x] Export static webflow files to Local Environment.
+* [x] Test and commit necessary code to the GitHub repo.
 * [ ] (Walk away safe?) Deploy Final Project.
 
 ## 3. Project Demo
@@ -99,27 +99,26 @@ def |![img](assets/some-image-n3.png){width=200px}|![img](assets/some-image-n4.p
 
 ### 4.2 - Best Practices
 
-#### THEORIES
+#### THEORY
 
-- [Agile](https://); [DevOps](https://); [Sprints](https://)
+- Product Design: [Agile](https://); [DevOps](https://); [Sprints](https://)
+- Graphic Design: [Agile](https://); [DevOps](https://); [Sprints](https://)
+- Interaction Design: [Agile](https://); [DevOps](https://); [Sprints](https://)
+- Frontend Dev: [Agile](https://); [DevOps](https://); [Sprints](https://)
+- Backend Dev: [Agile](https://); [DevOps](https://); [Sprints](https://)
+- Digital Marketing: [](https://)
 
 #### KNOWLEDGE
 
-- [Udacity: WRITING README'S](https://).
-- [Udacity: LINKEDIN PROFILE](https://).
-- [Udacity: Intro to JavaScript](https://).
-- [Udacity: GITHUB VERSION CONTROL](https://).
+- Udacity: [WRITING README'S](https://).
+- Udacity: [LINKEDIN PROFILE](https://).
+- Udacity: [Intro to JavaScript](https://).
+- Udacity: [GITHUB VERSION CONTROL](https://).
 
 #### BOOTCAMPS
 
 - [edX: Harvard CS50](https://).
 - [Udacity Nanodegree: Front End Web Developer](https://).
-
-#### EXPERIENCE
-
-- Backend: [3 Years](https://Founddesigns.de) 🎢🎡+🔥🧯=🧶🎨✨.
-- [Interaction Design](https://Founddesigns.de) 🎢🎡+🔥🧯=🧶🎨✨.
-- Product: [1 Year]
 
 ## 5. Project License
 
