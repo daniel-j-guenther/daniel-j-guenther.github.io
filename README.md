@@ -4,20 +4,19 @@ A Static Splash Page hosted on GitHub Pages.
 
 <!-- <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Passing"> <img src="https://img.shields.io/badge/test-passing-brightgreen" alt="Test Passing"> <img src="https://img.shields.io/badge/node-14.15.5-brightgreen" alt="HTML, CSS & JavaScript"> <img src="https://img.shields.io/badge/webpack-4.46.0-blue" alt="Webpack V4.46.0"> -->
 
-## [ Project Overview ]
+## 1. Project Overview
 
-### 1: OBJECTIVE
+### 1.1 Objective
 
-The goal of this project is to demonstrate hireable skills with leading technologies and best practices.
+The goal of this project is to demonstrate hireable skills with leading technologies and best practices:
 
-- GitHub Codespaces
-- GitHub CoPilot
-- GitHub Pages
+- GitHub: Pages, Codespaces, CoPilot
+- VSCode: Workspace, Extensions, Improve Workflow
+- Product: Avoid Cognitive Biases
+- Design: Pixel Perfect, Inclusive,
+- DevOps: HTML, CSS, JavaScript
 
-- VSCode Workspace
-- VSCode Extensions
-
-### 2: SIDEQUEST
+### 1.2 Side Quest
 
 I have been accepted to study an Acredited program in [Data Science and Machine Learning](https://www.mygreatlearning.com/mit-data-science-and-machine-learning-program?user_cookie_uuid=0d485c68-b571-46b1-a3d3-b865ab3ab7af) via the [MIT Institute for Data, Systems, and Society (IDSS)](https://idss.mit.edu/). This credential will enable me to access a career path in the Tech Industry:
 
@@ -25,11 +24,9 @@ I have been accepted to study an Acredited program in [Data Science and Machine 
 
 *I see this project as an oportunity to establish much needed funding mechanisms to afford the above Enrollment and Ancillary fees.*
 
-## [ Project Management ]
+## 2. Project Management [ Backlog ]
 
-### 3: BACKLOG
-
-#### 3.1 - Themes & Milestones (Product Design)
+### 2.1 - Themes & Milestones (Product Design)
 
 * [x] Ideation ( Inspired by [Linktree](https://linktr.ee/) )
 * [ ] Research ( Skipped on first round: Idiation and Self-reflection )
@@ -40,7 +37,7 @@ I have been accepted to study an Acredited program in [Data Science and Machine 
 * [ ] Measure
 * [ ] Iterate? (Self-reflection: complete .com and sign a contract, its time)
 
-#### 3.2 - Tools & Environment (Backend & Sys-Admin)
+### 2.2 - Tools & Environment (Backend & Sys-Admin)
 
 * [X] Create and setup a GitHub Repository.
 * [X] Configure Local Environment and Build Tools.
@@ -48,18 +45,16 @@ I have been accepted to study an Acredited program in [Data Science and Machine 
 * [X] Prepare Analytics and Tag Manager Scripts.
 * [X] Configure Build Tools.
 
-#### 3.3 - Interaction Design / Frontend Development (DevOps)
+#### 2.3 - Interaction Design / Frontend Development (DevOps)
 
 * [X] Build out static files (HTML, CSS & JavaScript).
 * [X] Export static webflow files to Local Environment.
 * [ ] Test and commit necessary code to the GitHub repo.
 * [ ] (Walk away safe?) Deploy Final Project.
 
-## [ Project Demo ]
+## 3. Project Demo
 
-### 4: SHOWCASE
-
-### 4.1 - View Project
+### 3.1 - View Project
 
 - Live on the World Wide Web:
 [www.D-m.live](https://www.D-m.live) (GitHub Pages + Custom Domain = Personal Linktree✨).
@@ -70,7 +65,7 @@ I have been accepted to study an Acredited program in [Data Science and Machine 
 - View the latest prototype on Webflow:
 [design-mindfulness.webflow.io](https://design-mindfulness.weblow.io)
 
-### 4.2 - Discover More
+### 3.2 - Discover More
 
 BASE | TECH | STATUS | LINK | LIFE-CYCLE
 :--: | :--: | :----: | :--: | :--------:
