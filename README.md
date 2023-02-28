@@ -36,37 +36,41 @@ I have been accepted to study an Acredited program in [Data Science and Machine 
 * [x] Strategy
 * [X] Design
 * [X] Build
-* [ ] Test / Measure / Iterate? (Self-reflection: need to complete the .com and sign a contract)
+* [ ] Test
+* [ ] Measure
+* [ ] Iterate? (Self-reflection: complete .com and sign a contract, its time)
 
-#### 3.2 - Backend / Sys-Admin / Developer Tools
+#### 3.2 - Tools & Environment (Backend & Sys-Admin)
 
-[X] Create the GitHub Repository.
-[X] Setup Local Environment and VS Code WorkSpace.
-[X] Purchase Domain and point DNS Records.
-[X] Prepare Analytics and Tag Manager Scripts.
-[X] Configure Build Tools.
-[X] Deploy final project.
+* [X] Create and setup a GitHub Repository.
+* [X] Configure Local Environment and Build Tools.
+* [X] Purchase Domain and point DNS Records.
+* [X] Prepare Analytics and Tag Manager Scripts.
+* [X] Configure Build Tools.
 
-#### 3.3 - Frontend Development / Interaction Design (DevOps)
+#### 3.3 - Interaction Design / Frontend Development (DevOps)
 
-[X] Build out static files (HTML, CSS & JavaScript).
-[X] Export static webflow files to Local Environment.
-[ ] Commit necessary code to GitHub Repository.
+* [X] Build out static files (HTML, CSS & JavaScript).
+* [X] Export static webflow files to Local Environment.
+* [ ] Test and commit necessary code to the GitHub repo.
+* [ ] (Walk away safe?) Deploy Final Project.
 
 ### 4: REFERENCE
 
 #### 4.1 - Design / Developer Tools
 
-- [Host Static files with GitHub Pages](https://docs.github.com/en/pages)
-- [Build Static files with Webflow Designer](https://webflow.com/designer)
+- Build static files with [Webflow Designer](https://webflow.com/designer).
+- Host static files with [GitHub Pages](https://docs.github.com/en/pages).
 
 #### 4.2 - Theory / Best Practices
 
-- [UDACITY: README](https://)
-- [UDACITY: LINKEDIN](https://)
-- [UDACITY: GITHUB](https://).
-- [UDACITY: Intro to JavaScript](https://).
-- [UDACITY: Intro to JavaScript](https://).
+- Digital Bootcamp: [edX: Harvard CS50](https://).
+- Work Experience: 7 Years as Freelance Web Designer (🎢🎡🔥🧯🧶🎨✨).
+- Study Program: [Udacity: WRITING README'S](https://).
+- Study Program: [Udacity: LINKEDIN PROFILE](https://).
+- Study Program: [Udacity: Intro to JavaScript](https://).
+- Study Program: [Udacity: GITHUB VERSION CONTROL](https://).
+- Digital Bootcamp: [Udacity Nanodegree: Front End Web Developer](https://).
 
 ## 5: SHOWCASE
 
