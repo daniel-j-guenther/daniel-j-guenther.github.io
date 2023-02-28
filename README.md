@@ -49,7 +49,7 @@ I have been accepted to study an Acredited program in [Data Science and Machine 
 
 * [X] Build out static files (HTML, CSS & JavaScript).
 * [X] Export static webflow files to Local Environment.
-* [ ] Test and commit necessary code to the GitHub repo.
+* [X] Test and commit necessary code to the GitHub repo.
 * [ ] (Walk away safe?) Deploy Final Project.
 
 ## 3. Project Demo
