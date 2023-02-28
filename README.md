@@ -10,9 +10,9 @@ A Static Splash Page hosted on GitHub Pages.
 
 The goal of this project is to demonstrate hireable skills with leading technologies and best practices:
 
-- GitHub: Pages, Codespaces, CoPilot
-- VSCode: Workspace, Extensions, Improve Workflow
-- Product: Avoid Cognitive Biases
+- GitHub: Pages, Codespaces
+- VSCode: Workspace, Extensions, `improve workflow`
+- Product: Design Thinking, `Avoid Cognitive Bias`
 - Design: Pixel Perfect, Inclusive,
 - DevOps: HTML, CSS, JavaScript
 
@@ -24,9 +24,9 @@ I have been accepted to study an Acredited program in [Data Science and Machine 
 
 *I see this project as an oportunity to establish much needed funding mechanisms to afford the above Enrollment and Ancillary fees.*
 
-## 2. Project Management [ Backlog ]
+## 2. Project Backlog
 
-### 2.1 - Themes & Milestones (Product Design)
+### 2.1 - Themes & Milestones (Product / Interaction Design)
 
 * [x] Ideation ( Inspired by [Linktree](https://linktr.ee/) )
 * [ ] Research ( Skipped on first round: Idiation and Self-reflection )
@@ -37,7 +37,7 @@ I have been accepted to study an Acredited program in [Data Science and Machine 
 * [ ] Measure
 * [ ] Iterate? (Self-reflection: complete .com and sign a contract, its time)
 
-### 2.2 - Tools & Environment (Backend & Sys-Admin)
+### 2.2 - Tools & Environment (Backend / Sys-Admin.)
 
 * [X] Create and setup a GitHub Repository.
 * [X] Configure Local Environment and Build Tools.
@@ -45,7 +45,7 @@ I have been accepted to study an Acredited program in [Data Science and Machine 
 * [X] Prepare Analytics and Tag Manager Scripts.
 * [X] Configure Build Tools.
 
-#### 2.3 - Interaction Design / Frontend Development (DevOps)
+### 2.3 - Frontend Development (Web Design / DevOps)
 
 * [X] Build out static files (HTML, CSS & JavaScript).
 * [X] Export static webflow files to Local Environment.
@@ -90,23 +90,37 @@ def |![img](assets/some-image-n3.png){width=200px}|![img](assets/some-image-n4.p
 
 [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc) -->
 
-### 5: REFERENCE
+## 4. Reference
 
-#### 5.1 - Design / Developer Tools
+### 4.1 - Technologies
 
 - Host static files with [GitHub Pages](https://docs.github.com/en/pages).
 - Build static files with [Webflow Designer](https://webflow.com/designer).
 
-#### 5.2 - Theory / Best Practices
+### 4.2 - Best Practices
 
-- Digital Bootcamp: [edX: Harvard CS50](https://).
-- Study Program: [Udacity: WRITING README'S](https://).
-- Study Program: [Udacity: LINKEDIN PROFILE](https://).
-- Study Program: [Udacity: Intro to JavaScript](https://).
-- Study Program: [Udacity: GITHUB VERSION CONTROL](https://).
-- Digital Bootcamp: [Udacity Nanodegree: Front End Web Developer](https://).
-- Work Experience: [7 Years in Web Development](https://Founddesigns.de) 🎢🎡+🔥🧯=🧶🎨✨.
+#### THEORIES
 
-## [ Project License ]
+- [Agile](https://); [DevOps](https://); [Sprints](https://)
+
+#### KNOWLEDGE
+
+- [Udacity: WRITING README'S](https://).
+- [Udacity: LINKEDIN PROFILE](https://).
+- [Udacity: Intro to JavaScript](https://).
+- [Udacity: GITHUB VERSION CONTROL](https://).
+
+#### BOOTCAMPS
+
+- [edX: Harvard CS50](https://).
+- [Udacity Nanodegree: Front End Web Developer](https://).
+
+#### EXPERIENCE
+
+- Backend: [3 Years](https://Founddesigns.de) 🎢🎡+🔥🧯=🧶🎨✨.
+- [Interaction Design](https://Founddesigns.de) 🎢🎡+🔥🧯=🧶🎨✨.
+- Product: [1 Year]
+
+## 5. Project License
 
 `design-mindfulness.github.io` is personal work released under the [GNU General Public License, version 3 (GNU GPL v3)](https://www.gnu.org/licenses/gpl-3.0.html).
