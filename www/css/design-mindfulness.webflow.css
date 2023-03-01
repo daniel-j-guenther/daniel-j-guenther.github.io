@@ -2569,7 +2569,7 @@ h1 {
   font-size: 7ch;
   line-height: 1em;
   font-style: normal;
-  font-variation-settings: "wght" 394;
+  font-variation-settings: "wght"394;
   letter-spacing: -0.064ch;
 }
 
@@ -2577,14 +2577,14 @@ h2 {
   margin: 0px;
   font-size: 6ch;
   line-height: 1em;
-  font-variation-settings: "wght" 720;
+  font-variation-settings: "wght"720;
 }
 
 h3 {
   margin: 0px;
   font-size: 5ch;
   line-height: 1em;
-  font-variation-settings: "wght" 520;
+  font-variation-settings: "wght"520;
 }
 
 h4 {
@@ -2603,7 +2603,7 @@ h6 {
   margin: 0px;
   font-size: 2ch;
   line-height: 1em;
-  font-variation-settings: "wght" 640;
+  font-variation-settings: "wght"640;
 }
 
 p {
@@ -2646,7 +2646,7 @@ li {
 strong {
   display: inline-block;
   font-size: 1em;
-  font-variation-settings: "wght" 800;
+  font-variation-settings: "wght"800;
 }
 
 em {
@@ -3033,7 +3033,7 @@ figcaption {
   transition: color 300ms ease, background-color 300ms ease;
   color: #3b3f44;
   font-size: 1.618ch;
-  font-variation-settings: "wght" 800;
+  font-variation-settings: "wght"800;
 }
 
 .style-guide-link-wrapper {
@@ -3120,7 +3120,7 @@ figcaption {
   color: #111117;
   font-size: 0.8rem;
   line-height: 20px;
-  font-variation-settings: "wght" 800;
+  font-variation-settings: "wght"800;
 }
 
 .color-hex {
@@ -3134,7 +3134,7 @@ figcaption {
   padding-bottom: 1rem;
   padding-left: 1rem;
   font-size: 1.25ch;
-  font-variation-settings: "wght" 369;
+  font-variation-settings: "wght"369;
 }
 
 .xx-subtitle.dmsg-first {
@@ -3200,7 +3200,7 @@ figcaption {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  font-variation-settings: "wght" 787;
+  font-variation-settings: "wght"787;
 }
 
 .ui-para-large {
@@ -3574,7 +3574,7 @@ figcaption {
   transition: transform 144ms ease, color 350ms ease, -webkit-transform 144ms ease;
   color: #fff;
   font-size: 2ch;
-  font-variation-settings: "wght" 200;
+  font-variation-settings: "wght"200;
   text-decoration: none;
   text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.24);
 }
@@ -3585,7 +3585,7 @@ figcaption {
   transform: scale(1.1);
   color: #fff;
   font-size: 3ch;
-  font-variation-settings: "wght" 520;
+  font-variation-settings: "wght"520;
   font-weight: 500;
   text-align: right;
   text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.24), 1px 1px 6px rgba(0, 0, 0, 0.24);
@@ -4985,7 +4985,7 @@ figcaption {
   margin-bottom: 24px;
   color: rgba(255, 255, 255, 0.65);
   font-size: 2ch;
-  font-variation-settings: "wght" 420;
+  font-variation-settings: "wght"420;
 }
 
 .xx-sub-title.hero-title {
@@ -6769,7 +6769,7 @@ figcaption {
 .ui-rich-text h5 {
   margin-top: 2ch;
   margin-bottom: 1ch;
-  font-variation-settings: "wght" 200;
+  font-variation-settings: "wght"200;
 }
 
 .ui-rich-text p {
@@ -6798,13 +6798,13 @@ figcaption {
 
 .ui-rich-text h1 {
   margin-bottom: 0.328ch;
-  font-variation-settings: "wght" 200;
+  font-variation-settings: "wght"200;
 }
 
 .ui-rich-text h6 {
   margin-top: 1.5ch;
   margin-bottom: 0.64ch;
-  font-variation-settings: "wght" 720;
+  font-variation-settings: "wght"720;
 }
 
 .sys-link {
@@ -6887,7 +6887,7 @@ figcaption {
   margin-bottom: 12px;
   color: #fff;
   font-size: 1.25ch;
-  font-variation-settings: "wght" 200;
+  font-variation-settings: "wght"200;
 }
 
 .dm-nav-item.last {
@@ -10502,7 +10502,7 @@ figcaption {
   color: #111117;
   font-size: 22px;
   line-height: 1em;
-  font-variation-settings: "wght" 508;
+  font-variation-settings: "wght"508;
   letter-spacing: 2.4px;
   text-decoration: none;
 }
@@ -21404,7 +21404,7 @@ figcaption {
   color: #cfff8b;
   font-size: 16px;
   line-height: 18px;
-  font-variation-settings: "wght" 601;
+  font-variation-settings: "wght"601;
   text-align: right;
   letter-spacing: 1px;
 }
@@ -27039,7 +27039,7 @@ figcaption {
   margin-top: 5px;
   font-size: 0.72rem;
   line-height: 0.8em;
-  font-variation-settings: "wght" 610;
+  font-variation-settings: "wght"610;
   letter-spacing: -0.52px;
 }
 
@@ -27797,7 +27797,7 @@ figcaption {
   align-items: flex-start;
   font-size: 1rem;
   line-height: 11px;
-  font-variation-settings: "wght" 800;
+  font-variation-settings: "wght"800;
   letter-spacing: -0.24px;
 }
 
@@ -28095,7 +28095,7 @@ figcaption {
   transition: font-size 200ms ease, letter-spacing 200ms ease, font-variation-settings 200ms ease;
   color: #111117;
   font-size: 1.777ch;
-  font-variation-settings: "wght" 512;
+  font-variation-settings: "wght"512;
   text-align: center;
   text-decoration: none;
 }
@@ -28108,7 +28108,7 @@ figcaption {
   -webkit-backdrop-filter: blur(12px);
   backdrop-filter: blur(12px);
   color: #fff;
-  font-variation-settings: "wght" 720;
+  font-variation-settings: "wght"720;
   font-weight: 500;
   letter-spacing: -0.24px;
   text-decoration: none;
@@ -28447,7 +28447,7 @@ figcaption {
   margin-right: 12px;
   color: #3b3f44;
   font-size: 0.7rem;
-  font-variation-settings: "wght" 640;
+  font-variation-settings: "wght"640;
   letter-spacing: normal;
   text-shadow: none;
 }
@@ -28476,7 +28476,7 @@ figcaption {
   display: inline-block;
   padding-left: 0.72px;
   font-size: 0.7rem;
-  font-variation-settings: "wght" 399;
+  font-variation-settings: "wght"399;
   font-weight: 600;
   letter-spacing: -1px;
 }
@@ -29144,7 +29144,7 @@ figcaption {
   color: #111117;
   font-size: 4vw;
   line-height: 4.2rem;
-  font-variation-settings: "wght" 534;
+  font-variation-settings: "wght"534;
   font-weight: 800;
   letter-spacing: -7.2px;
 }
@@ -29154,7 +29154,7 @@ figcaption {
   margin-bottom: 0.2em;
   font-size: 3em;
   line-height: 1.1;
-  font-variation-settings: "wght" 648;
+  font-variation-settings: "wght"648;
 }
 
 .link-11 {
@@ -29313,7 +29313,7 @@ figcaption {
   color: #111117;
   font-size: 1.5ch;
   line-height: 130%;
-  font-variation-settings: "wght" 606;
+  font-variation-settings: "wght"606;
   text-align: center;
   text-decoration: none;
 }
@@ -29321,7 +29321,7 @@ figcaption {
 .dm-crumb-links:hover {
   opacity: 1;
   color: #fff;
-  font-variation-settings: "wght" 720;
+  font-variation-settings: "wght"720;
   text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.24);
 }
 
@@ -29354,7 +29354,7 @@ figcaption {
   color: #111117;
   font-size: 1.777ch;
   line-height: 1.7rem;
-  font-variation-settings: "wght" 635;
+  font-variation-settings: "wght"635;
 }
 
 .main-section {
@@ -30185,13 +30185,13 @@ figcaption {
   color: rgba(53, 33, 181, 0.65);
   font-size: 1.618ch;
   font-style: normal;
-  font-variation-settings: "wght" 520;
+  font-variation-settings: "wght"520;
   text-decoration: none;
   mix-blend-mode: difference;
 }
 
 .dm-crumbs-care:hover {
-  font-variation-settings: "wght" 720;
+  font-variation-settings: "wght"720;
   mix-blend-mode: difference;
 }
 
@@ -31066,7 +31066,7 @@ figcaption {
   font-family: ff-good-headline-web-pro-nar, sans-serif;
   font-size: 1em;
   line-height: 1.3em;
-  font-variation-settings: "wght" 620;
+  font-variation-settings: "wght"620;
   font-weight: 700;
 }
 
@@ -31835,7 +31835,7 @@ figcaption {
   color: #fff;
   font-size: 1.777ch;
   line-height: 1.1em;
-  font-variation-settings: "wght" 600;
+  font-variation-settings: "wght"600;
   letter-spacing: 0ch;
 }
 
@@ -32075,14 +32075,14 @@ figcaption {
   color: #3b3f44;
   font-size: 1.618ch;
   line-height: 1em;
-  font-variation-settings: "wght" 500;
+  font-variation-settings: "wght"500;
 }
 
 .dm-menu-item:hover {
   border-left: 4px solid #3b3f44;
   background-color: rgba(255, 255, 255, 0.65);
   color: #111117;
-  font-variation-settings: "wght" 800;
+  font-variation-settings: "wght"800;
 }
 
 .tool-text {
@@ -32191,7 +32191,7 @@ figcaption {
   color: #111117;
   font-size: 1.777ch;
   line-height: 1.618em;
-  font-variation-settings: "wght" 500;
+  font-variation-settings: "wght"500;
   text-align: center;
   mix-blend-mode: difference;
 }
@@ -32826,12 +32826,12 @@ figcaption {
   font-family: JetBrains, sans-serif;
   color: #111117;
   font-size: 2ch;
-  font-variation-settings: "wght" 400;
+  font-variation-settings: "wght"400;
   text-decoration: none;
 }
 
 .dmui-toolbar-btn:hover {
-  font-variation-settings: "wght" 800;
+  font-variation-settings: "wght"800;
 }
 
 .dmui-toolbar-btn:active {
@@ -33477,7 +33477,7 @@ figcaption {
 }
 
 .text-block-18 {
-  font-variation-settings: "wght" 711;
+  font-variation-settings: "wght"711;
 }
 
 .heading-24 {
@@ -33516,7 +33516,7 @@ figcaption {
   border-radius: 2px;
   background-color: #6464ff;
   color: #fff;
-  font-variation-settings: "wght" 690;
+  font-variation-settings: "wght"690;
   letter-spacing: 0.1em;
 }
 
@@ -35392,7 +35392,7 @@ figcaption {
   align-items: flex-start;
   font-size: 1rem;
   line-height: 11px;
-  font-variation-settings: "wght" 800;
+  font-variation-settings: "wght"800;
   letter-spacing: -0.24px;
 }
 
@@ -35417,7 +35417,7 @@ figcaption {
   filter: invert(100%);
   font-size: 0.7rem;
   line-height: 1rem;
-  font-variation-settings: "wght" 800;
+  font-variation-settings: "wght"800;
   font-weight: 600;
   letter-spacing: 1.618px;
 }
@@ -35739,7 +35739,7 @@ figcaption {
   color: #111117;
   font-size: 1.44vw;
   line-height: 1.618em;
-  font-variation-settings: "wght" 520;
+  font-variation-settings: "wght"520;
   font-weight: 200;
 }
 
@@ -35771,7 +35771,7 @@ figcaption {
   color: rgba(0, 0, 0, 0.5);
   font-size: 12px;
   line-height: 1em;
-  font-variation-settings: "wght" 700;
+  font-variation-settings: "wght"700;
   text-align: left;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -35826,7 +35826,7 @@ figcaption {
 .dp-h4 {
   font-family: JetBrains, sans-serif;
   font-size: 1ch;
-  font-variation-settings: "wght" 745, "wght" 800;
+  font-variation-settings: "wght"745, "wght"800;
 }
 
 .icon-embed-xxsmall-3 {
@@ -35930,7 +35930,7 @@ figcaption {
   transition: background-color 369ms ease-out, transform 417ms ease-out, -webkit-transform 417ms ease-out;
   color: #fff;
   font-size: 1.618rem;
-  font-variation-settings: "wght" 369;
+  font-variation-settings: "wght"369;
   cursor: copy;
 }
 
@@ -35941,7 +35941,7 @@ figcaption {
   -webkit-transform: scale(1.1);
   -ms-transform: scale(1.1);
   transform: scale(1.1);
-  font-variation-settings: "wght" 693;
+  font-variation-settings: "wght"693;
   letter-spacing: -1.69px;
 }
 
@@ -36538,7 +36538,7 @@ figcaption {
   color: transparent;
   font-size: 1rem;
   line-height: 0em;
-  font-variation-settings: "wght" 800;
+  font-variation-settings: "wght"800;
   text-align: center;
   letter-spacing: -0.64px;
 }
@@ -36552,7 +36552,7 @@ figcaption {
   transform-origin: 50% 0%;
   color: #111117;
   line-height: 0px;
-  font-variation-settings: "wght" 200;
+  font-variation-settings: "wght"200;
   letter-spacing: -0.72px;
 }
 
@@ -36586,13 +36586,13 @@ figcaption {
   font-size: 0.8rem;
   line-height: 1.3em;
   font-style: normal;
-  font-variation-settings: "wght" 640;
+  font-variation-settings: "wght"640;
   letter-spacing: -0.52px;
 }
 
 .dp-care:hover {
   color: #fff;
-  font-variation-settings: "wght" 369;
+  font-variation-settings: "wght"369;
 }
 
 .dp-care.dpcc-auto-left {
@@ -36870,7 +36870,7 @@ figcaption {
 .dp-bold {
   color: #fff;
   font-size: 0.72rem;
-  font-variation-settings: "wght" 417;
+  font-variation-settings: "wght"417;
   letter-spacing: -0.64px;
   text-decoration: none;
 }
@@ -36963,7 +36963,7 @@ figcaption {
   -webkit-filter: invert(100%);
   filter: invert(100%);
   color: #cfff8b;
-  font-variation-settings: "wght" 800;
+  font-variation-settings: "wght"800;
   letter-spacing: 0.24px;
   text-decoration: underline;
 }
@@ -37341,12 +37341,12 @@ figcaption {
   color: #fff;
   font-size: 1.44ch;
   font-style: normal;
-  font-variation-settings: "wght" 800;
+  font-variation-settings: "wght"800;
 }
 
 .dp-mains:hover {
   color: #fff;
-  font-variation-settings: "wght" 640;
+  font-variation-settings: "wght"640;
 }
 
 .dp-mains.dpcc-auto-left {
@@ -37404,12 +37404,12 @@ figcaption {
   font-size: 1.44ch;
   line-height: 1.4em;
   font-style: normal;
-  font-variation-settings: "wght" 800;
+  font-variation-settings: "wght"800;
   letter-spacing: -0.52px;
 }
 
 .dp-logo:hover {
-  font-variation-settings: "wght" 512;
+  font-variation-settings: "wght"512;
   letter-spacing: -0.48px;
 }
 
@@ -43788,7 +43788,7 @@ figcaption {
 
   .dp-subs {
     color: #111117;
-    font-variation-settings: "wght" 540;
+    font-variation-settings: "wght"540;
   }
 
   .swiper-container-3 {
@@ -43938,7 +43938,7 @@ figcaption {
 
   .dp-type {
     color: #180352;
-    font-variation-settings: "wght" 445;
+    font-variation-settings: "wght"445;
     text-decoration: none;
   }
 
@@ -43952,7 +43952,7 @@ figcaption {
   .dp-care {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    font-variation-settings: "wght" 492;
+    font-variation-settings: "wght"492;
   }
 
   .dp-grid {
@@ -43962,12 +43962,12 @@ figcaption {
   .dp-bold {
     -webkit-transition: font-variation-settings 1440ms ease-out;
     transition: font-variation-settings 1440ms ease-out;
-    font-variation-settings: "wght" 369;
+    font-variation-settings: "wght"369;
     letter-spacing: -0.24px;
   }
 
   .dp-bold:hover {
-    font-variation-settings: "wght" 200;
+    font-variation-settings: "wght"200;
   }
 
   .dp-node-btn.dp-span {
@@ -44034,7 +44034,7 @@ figcaption {
   .dp-logo {
     -webkit-transition: color 512ms ease-out, font-variation-settings 475ms ease;
     transition: color 512ms ease-out, font-variation-settings 475ms ease;
-    font-variation-settings: "wght" 662;
+    font-variation-settings: "wght"662;
     text-decoration: none;
   }
 }
@@ -46949,7 +46949,7 @@ figcaption {
   }
 
   .dp-bold {
-    font-variation-settings: "wght" 472;
+    font-variation-settings: "wght"472;
     letter-spacing: -0.48px;
   }
 
@@ -52388,7 +52388,6 @@ figcaption {
   font-style: normal;
   font-display: auto;
 }
-
 @font-face {
   font-family: 'DM Icon';
   src: url('../fonts/dm-icons-500.woff2') format('woff2');
@@ -52396,7 +52395,6 @@ figcaption {
   font-style: normal;
   font-display: auto;
 }
-
 @font-face {
   font-family: 'DM Icon';
   src: url('../fonts/dm-icons-700.woff2') format('woff2');
@@ -52404,7 +52402,6 @@ figcaption {
   font-style: normal;
   font-display: auto;
 }
-
 @font-face {
   font-family: 'PlusSans';
   src: url('../fonts/PlusJakartaSans-VariableFont_wght.ttf') format('truetype');
@@ -52412,7 +52409,6 @@ figcaption {
   font-style: normal;
   font-display: auto;
 }
-
 @font-face {
   font-family: 'PlusSans';
   src: url('../fonts/PlusJakartaSans-Italic-VariableFont_wght.ttf') format('truetype');
@@ -52420,7 +52416,6 @@ figcaption {
   font-style: italic;
   font-display: auto;
 }
-
 @font-face {
   font-family: 'JetBrains';
   src: url('../fonts/JetBrainsMono-VariableFont_wght.ttf') format('truetype');
@@ -52428,7 +52423,6 @@ figcaption {
   font-style: normal;
   font-display: auto;
 }
-
 @font-face {
   font-family: 'JetBrains';
   src: url('../fonts/JetBrainsMono-Italic-VariableFont_wght.ttf') format('truetype');
