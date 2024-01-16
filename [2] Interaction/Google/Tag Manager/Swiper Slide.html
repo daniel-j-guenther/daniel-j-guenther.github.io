@@ -1,0 +1,21 @@
+<!-- Swiper.js Swiper Slide -->
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+
+
+<!-- After Head -->
+<!-- Modules Swiper Slide -->
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.2/js/swiper.min.js"></script>
+<script>
+  var swiper = new Swiper(".swiper-container", {
+  	slidesPerView: 3,
+    spaceBetween: 0,
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true,
+    },
+    initialSlide:	2,
+  	grabCursor: true,
+    centeredSlides: true,
+  });
+</script>
